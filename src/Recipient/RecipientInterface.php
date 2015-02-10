@@ -13,7 +13,6 @@ use Notifier\ParameterBag\ParameterBagInterface;
 
 /**
  * @author Dries De Peuter <dries@nousefreak.be>
- * @contributor Joeri van Dooren
  */
 interface RecipientInterface
 {

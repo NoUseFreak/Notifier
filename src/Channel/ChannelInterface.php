@@ -15,7 +15,6 @@ use Notifier\Recipient\RecipientInterface;
 
 /**
  * @author Dries De Peuter <dries@nousefreak.be>
- * @contributor Joeri van Dooren
  */
 interface ChannelInterface
 {
