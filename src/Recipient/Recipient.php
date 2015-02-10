@@ -13,7 +13,6 @@ use Notifier\ParameterBag\ParameterBagTrait;
 
 /**
  * @author Dries De Peuter <dries@nousefreak.be>
- * @contributor Joeri van Dooren
  */
 class Recipient implements RecipientInterface
 {

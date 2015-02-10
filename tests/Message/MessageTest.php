@@ -14,7 +14,7 @@ use Notifier\Tests\Stubs\ParameterBag;
 use Notifier\Tests\Stubs\Type;
 
 /**
- * @author Joeri van Dooren
+ * @author Dries De Peuter <dries@nousefreak.be>
  */
 class MessageTest extends \PHPUnit_Framework_TestCase
 {

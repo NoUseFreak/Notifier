@@ -10,7 +10,7 @@
 namespace Notifier\ParameterBag;
 
 /**
- * @author Joeri van Dooren
+ * @author Dries De Peuter <dries@nousefreak.be>
  */
 trait ParameterBagTrait
 {
